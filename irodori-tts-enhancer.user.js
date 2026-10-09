@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Easy-Irodori-TTS(ローカル環境版) 拡張機能
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/grmpnk
 // @version      Easy-Irodori-TTS-v1.1
 // @description  無料の音声生成AIの拡張機能 - ショートカットの追加/ファイル名を指定/演出の一括表示
 // @author       grmpneko
