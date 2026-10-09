@@ -1,6 +1,6 @@
 
 # Overview
-Irodori‑TTS Userscript Enhancer は [Irodori‑TTS](https://github.com/Aratako/Irodori-TTS)(ローカル環境版) の操作性を向上させる userscript です。
+Irodori‑TTS Userscript Enhancer は [Irodori‑TTS](https://github.com/Aratako/Irodori-TTS)  ([ローカル環境版](https://uu.getuploader.com/yuupro0308/)) の操作性を向上させる userscript です。
 主な追加機能は キーボードショートカットの追加、出力ファイル名の指定、感情・演出を一括表示する UI です。Tampermonkey / Violentmonkey / Greasemonkey に対応しています。
 
 # Features
