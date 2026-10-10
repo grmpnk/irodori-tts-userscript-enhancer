@@ -11,6 +11,8 @@ Irodori‑TTS Userscript Enhancer は [Irodori‑TTS](https://github.com/Aratako
    - 出力する音声ファイルの命名ルールを指定できます
 3. 感情・演出の一括表示
    - 利用可能な感情・演出を一覧で表示します。
+4. テンプレート機能の追加
+   - テキストのテンプレートを保存・ペーストできます。
   
 # インストール方法
 1. **Tampermonkey をインストールする**  
@@ -25,6 +27,6 @@ Irodori‑TTS Userscript Enhancer は [Irodori‑TTS](https://github.com/Aratako
    [ここからインストール](https://github.com/grmpnk/irodori-tts-userscript-enhancer/raw/refs/heads/main/irodori-tts-enhancer.user.js)
    
    以上で完了です。
-   `Irodori‑TTS`を起動すると反映されてます。
+   `Irodori‑TTS`を起動すると反映されます。
 
 
